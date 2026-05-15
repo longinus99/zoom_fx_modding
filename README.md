@@ -4,3 +4,8 @@
 
 만드는법자체는 https://github.com/repeat98/ZoomMultistompZDL 에서 참고가 가능한듯
 
+만들고 싶은 FX
+1. Dual Pitch Shifter.
+
+1차 목표.
+Dissamble ZDL File.
