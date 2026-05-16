@@ -1,4 +1,4 @@
-# zoom_fx_modding
+# Zoom_FX_Project
 
 기타 이펙터인 Zoom MS-70CDR에 원하는 FX를 만들어서 넣는 프로젝트
 
